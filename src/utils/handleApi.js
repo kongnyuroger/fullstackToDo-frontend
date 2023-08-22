@@ -1,5 +1,5 @@
 import axios from "axios";
-const baseUrl = "http://localhost:5000";
+const baseUrl = "https://fullstacktodo-backend-sm5t.onrender.com";
 
 const getAllToDO = (setToDo) => {
     axios
